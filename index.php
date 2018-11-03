@@ -8,8 +8,11 @@ $app->config('debug', true);
 
 $app->get('/', function() {
     
-	// $sql = new fatec\DB\sql();
-	echo "OK";
+	$sql = new Fatec\DB\sql();
+
+	$results = $sql->select("SELECT * FROM tb_products");
+
+	echo json_encode($results);
 });
 
 $app->run();
