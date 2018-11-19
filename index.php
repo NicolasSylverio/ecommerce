@@ -14,6 +14,14 @@ $app->get('/', function() {
 
 });
 
+$app->get('/admin', function() {
+    
+	$page = new Fatec\PageAdmin();
+
+	$page->setTpl("index");
+
+});
+
 $app->run();
 
  ?>
