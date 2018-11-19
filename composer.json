@@ -2,7 +2,7 @@
     "name": "NicolasSylverio/ecommerce",
     "authors": [
         {
-            "name": "Fatec",
+            "name": "Nicolas",
             "email": "nicolas_sylveriopereira@hotmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fatec\\": "vendor\\fatec\\php-classes\\src"
+            "Fatec\\": "src\\fatec\\php-classes\\src"
         }
     }
 }

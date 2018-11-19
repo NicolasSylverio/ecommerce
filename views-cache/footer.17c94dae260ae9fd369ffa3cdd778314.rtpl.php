@@ -4,8 +4,10 @@
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
 				<div class="footer-about-us">
-					<h2>Fatec Ecommerce</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis sunt id doloribus vero quam laborum quas alias dolores blanditiis iusto consequatur, modi aliquid eveniet eligendi iure eaque ipsam iste, pariatur omnis sint! Suscipit, debitis, quisquam. Laborum commodi veritatis magni at?</p>
+					<h2>Xp Games</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis sunt id doloribus vero quam laborum quas
+						alias dolores blanditiis iusto consequatur, modi aliquid eveniet eligendi iure eaque ipsam iste, pariatur omnis
+						sint! Suscipit, debitis, quisquam. Laborum commodi veritatis magni at?</p>
 					<div class="footer-social">
 						<a href="" target="_blank"><i class="fa fa-facebook"></i></a>
 						<a href="" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -13,7 +15,7 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="col-md-3 col-sm-6">
 				<div class="footer-menu">
 					<h2 class="footer-wid-title">Navegação </h2>
@@ -21,10 +23,10 @@
 						<li><a href="#">Minha Conta</a></li>
 						<li><a href="#">Meus Pedidos</a></li>
 						<li><a href="#">Lista de Desejos</a></li>
-					</ul>                        
+					</ul>
 				</div>
 			</div>
-			
+
 			<div class="col-md-3 col-sm-6">
 				<div class="footer-menu">
 					<h2 class="footer-wid-title">Categorias</h2>
@@ -34,10 +36,10 @@
 						<li><a href="#">Categoria Três</a></li>
 						<li><a href="#">Categoria Quarto</a></li>
 						<li><a href="#">Categoria Cinco</a></li>
-					</ul>                        
+					</ul>
 				</div>
 			</div>
-			
+
 			<div class="col-md-3 col-sm-6">
 				<div class="footer-newsletter">
 					<h2 class="footer-wid-title">Newsletter</h2>
@@ -59,10 +61,10 @@
 		<div class="row">
 			<div class="col-md-8">
 				<div class="copyright">
-					<p>&copy; ecommerce Fatec 2018. <a href="http://www.fatecjd.edu.br/portal/" target="_blank">www.fatecjd.edu.br</a></p>
+					<p>&copy; Xp Games 2018. <a href="http://www.fatecjd.edu.br/portal/" target="_blank">www.fatecjd.edu.br</a></p>
 				</div>
 			</div>
-			
+
 			<div class="col-md-4">
 				<div class="footer-card-icon">
 					<i class="fa fa-cc-discover"></i>
@@ -95,4 +97,5 @@
 <script type="text/javascript" src="/res/site/js/bxslider.min.js"></script>
 <script type="text/javascript" src="/res/site/js/script.slider.js"></script>
 </body>
+
 </html>

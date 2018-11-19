@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Fatec ecommerce</title>
+    <title>XP Games</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -47,7 +47,7 @@
                                 <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">moeda :</span><span class="value">BRL </span><b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="#">BRL</a></li>
-                                    <li><a href="#">USD</a></li>
+                                    <!-- <li><a href="#">USD</a></li> -->
                                 </ul>
                             </li>
 

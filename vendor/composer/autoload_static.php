@@ -16,7 +16,7 @@ class ComposerStaticInit77d944aa88536a105fe553443dd469e1
     public static $prefixDirsPsr4 = array (
         'Fatec\\' => 
         array (
-            0 => __DIR__ . '/..' . '/fatec/php-classes/src',
+            0 => __DIR__ . '/../..' . '/src/fatec/php-classes/src',
         ),
     );
 
