@@ -12,4 +12,4 @@ Project for **Programming for Internet**.
 
 ## License
 
-The Feature Manager is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The NicolasSylverio/ecommerce is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
