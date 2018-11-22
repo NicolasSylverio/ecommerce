@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fatec\\": "src\\fatec\\php-classes\\src"
+            "Fatec\\": "src\\fatec"
         }
     }
 }
