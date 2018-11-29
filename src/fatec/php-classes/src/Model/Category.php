@@ -21,7 +21,7 @@ use \Fatec\Mailer;
 
             $result = $sql->select("CALL sp_categories_save(:idcategory, :descategory)", array(
                     ":idcategory"=>$this->getidcategory(),
-                    ":descategory"=>$this->getdescategory(),
+                    ":descategory"=>$this->getdescategory()
                 ));
 
             $this->setData($result[0]);
