@@ -11,9 +11,8 @@
 .vscode/extensions.json
 
 ### Composer ###
+vendor/
 composer.phar
-/vendor/
-/vendor
 composer.lock
 
 ### Rain TPL ###
