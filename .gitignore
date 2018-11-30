@@ -11,10 +11,12 @@
 .vscode/extensions.json
 
 ### Composer ###
+vendor/
 composer.phar
-/vendor/
-/vendor
 composer.lock
 
 ### Rain TPL ###
 /views-cache/
+
+### NPM ###
+node_modules/
